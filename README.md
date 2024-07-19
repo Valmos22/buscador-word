@@ -1,3 +1,5 @@
+En este proyecto se utilizo las tecnologias de NextJs, html, css y tailwindcss y algunas librerias como React Toastify y la API de Web Speech.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
